@@ -12,4 +12,5 @@ In short, the code relates blinking behavior to eye and head movements recorded 
 
 (4) The coupling of blinks and head movements is linked to the individual needs of an observer
 
-The relevant data that can be found here: https://osf.io/3cags/. 
+To run the code, just download the Analysis_Blinks folder, and start the Main script. It will call all relevant functions and create the figures and statistics that are reported in the manuscript. 
+It needs access to the data that can be found here: https://osf.io/3cags/. You will need to modify the datapath variable (L.15 in Main) to indicate where the data folder is. 
